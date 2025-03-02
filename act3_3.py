@@ -1,7 +1,7 @@
 # Asking user for their last name, first name, age, contact number, and course
 last = input("Enter your last name: ")
 first = input("Enter your first name: ")
-age = input("Enter age Ex. 20: ")
+age = input("Enter age: ")
 contact = input("Enter contact number: ")
 course = input("Enter course: ")
 
